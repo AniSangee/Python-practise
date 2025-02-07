@@ -1,0 +1,14 @@
+body{
+    background: #640bd8;
+}
+h1{
+    background-color: #29b9b9;
+    color: blue;
+    margin: 10px;
+    text-align: center;
+    text-decoration: solid;
+    text-shadow: 2vh;
+}
+button{
+    background: #666;
+}
